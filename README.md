@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/Halloween)
-  ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/Halloween?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/Halloween?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/Halloween-1)
+  ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/Halloween-1?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/Halloween-1?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar_?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
 
   <br />
@@ -12,7 +12,7 @@
 
   Halloween is a fully responsive website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-   <a href="https://adnan-bhaldar.github.io/Halloween" target="_blank"><strong>➥ Live Demo</strong></a>
+   <a href="https://adnan-bhaldar.github.io/Halloween-1" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
 
